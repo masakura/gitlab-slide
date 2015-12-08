@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "GitLab/GitLab.com 勉強会",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "masakura",
+    "githubRepository": "gitlab-slide"
+  }
+}
