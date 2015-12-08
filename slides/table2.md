@@ -8,5 +8,5 @@
 | GitHub Private (Bronze/Organization ) | $25 (10 repos)
 | GitLab.com (Public) | Free
 | GitLab.com (Private) | Free
-| BitBucket (Private/5 users) | Free
-| BitBucket (Private/10 users) | $10
+| Bitbucket (Private/5 users) | Free
+| Bitbucket (Private/10 users) | $10
