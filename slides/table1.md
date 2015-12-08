@@ -7,6 +7,6 @@
 | GitLab CE | Free | Free
 | GitLab EE (BASIC) | $390 (10 users) | $39
 | GitLab EE (STANDARD) | $4,900 (100 users) | $49
-| GitLab EE (PLUS | $14,900 (100 users) | $149
+| GitLab EE (PLUS) | $14,900 (100 users) | $149
 | GitBucket | Free | Free
 
