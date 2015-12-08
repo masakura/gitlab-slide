@@ -1,10 +1,6 @@
 
 # GitLab/GitLab.com 勉強会
 
-From the terminal, pop in:
+2015/12/9 (水)
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+政倉 智
