@@ -1,3 +1,4 @@
+<!-- .slide: data-background="#AEA79F" -->
 ## Agenda
 * GitLab の紹介
 * **GitLab を使う理由**
